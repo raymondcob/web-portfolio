@@ -6,7 +6,6 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- npm 
 
 ### Installation Steps
 
