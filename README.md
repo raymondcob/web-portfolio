@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 
 ### Installation Steps
 
@@ -20,23 +20,14 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
    ```bash
    npm install
    # or if you use yarn
-   yarn install
    ```
 
 3. **Start the development server**
    ```bash
    npm run dev
-   # or with yarn
-   yarn dev
    ```
    The site will be available at `http://localhost:5173`
 
-4. **Build for production**
-   ```bash
-   npm run build
-   # or with yarn
-   yarn build
-   ```
 
 ## 🛠️ Built With
 - [React](https://reactjs.org/) - Frontend library
