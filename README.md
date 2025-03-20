@@ -12,7 +12,7 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/web-portfolio.git
+   git clone https://github.com/raymondcob/web-portfolio.git
    cd web-portfolio
    ```
 
