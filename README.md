@@ -18,7 +18,6 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
 2. **Install dependencies**
    ```bash
    npm install
-
    ```
 
 3. **Start the development server**
@@ -27,7 +26,13 @@ A modern, responsive portfolio website built with React, Vite, and TailwindCSS.
    ```
    The site will be available at `http://localhost:5173`
 
+### Troubleshooting
 
+If you encounter script execution errors on Windows, run this command in PowerShell as a user:
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+This allows local scripts to run while keeping signed scripts for remote content.
 
 ## 🛠️ Built With
 - [React](https://reactjs.org/) - Frontend library
