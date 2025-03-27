@@ -1,6 +1,6 @@
 export const personalData = {
-  name: "Your Name",
-  title: "Your Title",
+  name: "Raymond Cob",
+  title: "Front-End Developer",
   description:
     "Write a brief description about your professional focus and what you do (2-3 lines)",
   details: {
