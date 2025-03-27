@@ -5,7 +5,7 @@ import {
   DiNodejsSmall,
   DiMongodb,
   DiPostgresql,
-  DiHtml5
+  DiHtml5,
 } from "react-icons/di";
 import { SiTailwindcss } from "react-icons/si";
 
