@@ -1,5 +1,5 @@
 import { personalData } from "../lib/data/personal"
-import { HiUser, HiEnvelope, HiMapPin, HiBriefcase, HiAcademicCap, HiLanguage } from "react-icons/hi2"
+import { HiUser, HiEnvelope, HiMapPin, HiBriefcase, HiAcademicCap,  } from "react-icons/hi2"
 
 export default function AboutMe() {
   const { details, about } = personalData
@@ -64,13 +64,6 @@ export default function AboutMe() {
                   <div>
                     <span className="block text-sm text-gray-400">Experience</span>
                     <span className="block font-medium text-gray-200">{details.experience}</span>
-                  </div>
-                </li>
-                <li className="flex items-center gap-3">
-                  <HiLanguage className="w-5 h-5 text-cyan-400" />
-                  <div>
-                    <span className="block text-sm text-gray-400">Website</span>
-                    <span className="block font-medium text-gray-200">{details.website}</span>
                   </div>
                 </li>
               </ul>

@@ -8,7 +8,7 @@ export default function Header() {
           <div className="relative">
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-cyan-500/30 bg-black relative">
               <img
-                src="src/images/avatar/image.png"
+                src="src/images/avatar/user.png"
                 alt="Profile Avatar"
                 className="w-full h-full object-cover"
               />
